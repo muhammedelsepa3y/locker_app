@@ -11,6 +11,7 @@ class AppRouter {
         path: homeRoute,
         builder: (__, _) => const HomeScreen(),
       ),
+
     ],
   );
 }
